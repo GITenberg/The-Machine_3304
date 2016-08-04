@@ -1,0 +1,37 @@
+_repo: The-Machine_3304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: Julia Patterson's apartments in a model tenement on the lower East Side.
+  The scene shows the living room, furnished very plainly, but in the newest taste;
+  arts and crafts furniture, portraits of Morris and Ruskin on the walls; a centre
+  table, a couple of easy-chairs, a divan and many book shelves. The entrance from
+  the outer hall is at centre; entrance to the other rooms right and left. ...
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political corruption -- Drama'
+- !lcsh 'New York (N.Y.) -- Drama'
+- !lcsh 'Tammany Hall -- Drama'
+- !lcc 'PS'
+- !lcsh 'Socialists -- Drama'
+- !lcsh 'American drama -- 20th century'
+- GITenberg
+title: The Machine
+url: http://www.gutenberg.org/ebooks/3304
